@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/util-fatura.iml" filepath="$PROJECT_DIR$/util-fatura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util-fatura.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util-fatura.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util-fatura.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util-fatura.test.iml" />
+    </modules>
+  </component>
+</project>
