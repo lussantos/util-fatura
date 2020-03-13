@@ -1,4 +1,4 @@
-package br.com.util;
+package br.com.util.fat;
 
 import java.util.Arrays;
 import java.util.List;

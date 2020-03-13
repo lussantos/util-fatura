@@ -1,4 +1,4 @@
-package br.com.util;
+package br.com.util.fat;
 
 import java.io.File;
 import java.io.IOException;
@@ -21,7 +21,7 @@ public class Main {
         List<String> list = new ArrayList<>();
 
         try (Stream<String> stream = Files.lines(
-                Paths.get(getPathFromProject("/src/main/resources/fatura_santander.csv")))) {
+                Paths.get(getPathFromProject("/src/main/resources/fat_santander.csv")))) {
             stream
                     .forEach(Main::validaDados);
 

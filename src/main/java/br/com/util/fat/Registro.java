@@ -1,4 +1,4 @@
-package br.com.util;
+package br.com.util.fat;
 
 public class Registro {
     private String data;
